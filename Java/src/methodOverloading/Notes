@@ -1,0 +1,6 @@
+POLYMORPHISM
+Many FOrms
+Two Types of Polymorphism are
+Compile Time Polymorphism (Method Overloading, Early and Static Binding)
+Run Time Polymorphism (Method Overriding,Late and Dynammic Binding)
+Same method name with different method signatures.

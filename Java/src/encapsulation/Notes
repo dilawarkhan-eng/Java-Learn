@@ -1,0 +1,4 @@
+Notes of OOP Concepts
+Encapsulation:Wrapping up of data under a single unit OR the process of binding the data by making it private and functions to process that data into a single unit.
+To achieve encapsulation is a two step process:To define your data of the class as a private data.
+We cannot access the private data members of a class (variables, methods) from another class directly, if we want to do this we will have to use the Set and Get method for this.

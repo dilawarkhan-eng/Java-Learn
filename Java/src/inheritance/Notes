@@ -1,0 +1,9 @@
+Inheritance in Java
+Inheritance have 5 types which are (Single,Multilevel,Hierarchical,Multiple,Hybrid)
+Keywords to implement Inheritance (Extends and Implements)
+Class inherit class/Interface inherits interface then EXTENDS keyword.
+Class inherit interface then IMPLEMENTS
+When a sub class is inheriting the properties of a super class OR child class inheriting the properties of parent class this is call Inheritance.
+In Selenium Web Driver scripting we use Inheritance in a way that we put the common scripts like (opening browser, closing,maximizing etc) into a common class then we use these properties of common class where needed with other classes.
+Single inheritance is when a Sub Class access members of parent class, Multiple inheritance is when member of a sub sub class access the members 
+When a parent class have more then one classes it become hierarichal inheritance.  

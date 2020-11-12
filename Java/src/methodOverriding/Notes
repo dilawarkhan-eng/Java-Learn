@@ -1,0 +1,6 @@
+Method Overriding
+Runtime Polymorphism
+Late binding,dynamic binding,
+When we Over ride the functionlity in child class which is inheriting with parent class this is know as method over riding.
+Same method name and also same signatures as well.
+Inheritance is must for method over riding

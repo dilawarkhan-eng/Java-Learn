@@ -1,0 +1,10 @@
+
+Abstraction
+Process of hiding the implementation detais from the users.
+Abstraction can be achieve by ( Interfaces,Abstract classes)
+Click, drag and drop drom selenium are example of abstraction.
+Abstract method does not have body(defination)
+A method can not be abstract if the class is not abstract.
+A method which have implementation (defination) is know as concrete method.
+If we extends the main class which is here the Shapes class then either we have to make the sub class as abstract as well or elseo we have to implement the unimplemented methods, becoz in the main class Shapes we do have methods which are unimplemented.
+we can not make the object of the abstract class in another class.

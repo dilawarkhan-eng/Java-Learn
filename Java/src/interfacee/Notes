@@ -1,0 +1,4 @@
+Interface
+here we do not have a concrete method such that the methods will not have any defination and we have to write the key word Interface with class if we want to achieve interface.
+When another class is inheriting the properties of an interface we have to use the key word IMPLEMENTS
+WebDrivers in selenium are interface like Chrome Driver, Edge Driver etc

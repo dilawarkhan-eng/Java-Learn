@@ -1,0 +1,6 @@
+
+Constructors
+Use to create the instant of the class.
+Constructor look simmilar
+Constructor do not have any return type and name of the constructor must be same as class name.
+ChromeDriver from selenium is the example of constructor
